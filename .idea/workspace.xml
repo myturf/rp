@@ -1,17 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5fa3d1e8-effb-4673-87f1-0e2c7fc044aa" name="Default Changelist" comment="" />
+    <list default="true" id="5fa3d1e8-effb-4673-87f1-0e2c7fc044aa" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.travis.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.travis.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/deploy/docker-push.sh" beforeDir="false" afterPath="$PROJECT_DIR$/deploy/docker-push.sh" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="KubernetesApiPersistence">
     <option name="context" value="arn:aws:eks:us-east-2:439840306573:cluster/uc-eks" />
     <option name="namespace" value="default" />
   </component>
   <component name="ProjectId" id="1mPesdlKJKFpeMr7DSXa8vraIkM" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -66,7 +74,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1609399865382</updated>
-      <workItem from="1609399866964" duration="838000" />
+      <workItem from="1609399866964" duration="1558000" />
     </task>
     <servers />
   </component>
