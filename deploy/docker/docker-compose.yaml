@@ -1,0 +1,7 @@
+version: "3"
+services:
+  reverse-proxy:
+      image: iamhere9/reverse-proxy
+      ports:
+          - 8080:8080
+      restart: always

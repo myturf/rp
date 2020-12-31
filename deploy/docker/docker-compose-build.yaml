@@ -1,0 +1,6 @@
+version: "3"
+services:
+  reverse-proxy:
+    build:
+      context: .
+    image: iamhere9/reverse-proxy
