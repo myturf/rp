@@ -24,8 +24,8 @@ install:
 #  script: bash ./deploy/docker-push.sh
 #  on:
 #    branch: master
-#
+
 
 after_script:
   - echo "$DOCKER_PASSWORD" | docker login -u "$DOCKER_USERNAME" --password-stdin
-  - docker image push "$DOCKER_USERNAME"/reverse-proxy
+  - docker image push iamhere9/reverse-proxy
